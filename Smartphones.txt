@@ -1,0 +1,9 @@
+Smartphones
+
+Id(int)    Brand(string)    Model(string)    Year(int)    Color(string)
+######
+1    "Apple"    "iPhone 10"    2020    "Black"
+3    "Sony"    "XZ"    2020    "Black"
+4    "Apple"    "iPhone 9"    2020    "Black"
+5    "Huawei"    "P9"    2020    "Black"
+6    "iPhone"    "8 Plus"    2018    "Rose Gold"

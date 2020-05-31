@@ -1,0 +1,8 @@
+Guitars
+
+Id(int)    Brand(string)    Model(string)    Strings(int)    Type(string)
+######
+1    "ESP"    "M-200"    6    NULL
+2    "ESP"    "M-220"    7    NULL
+3    "Ibanez"    "350DXZ"    8    NULL
+3    "Ibanez"    "250D"    7    NULL

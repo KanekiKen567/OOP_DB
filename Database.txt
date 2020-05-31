@@ -1,0 +1,4 @@
+Database
+Loaded datatables:
+Guitars    Guitars.txt
+Smartphones    Smartphones.txt

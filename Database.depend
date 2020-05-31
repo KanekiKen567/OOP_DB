@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589901998 source:c:\users\joro\desktop\database\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1590605711 source:e:\programirane\database1.0\database\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
